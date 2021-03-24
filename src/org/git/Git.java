@@ -6,6 +6,9 @@ public class Git {
 		
 		System.out.println("Selenium");
 		int a =10;
+		int b =20;
+		
+		System.out.println(a+b);
 		
 	}
 
